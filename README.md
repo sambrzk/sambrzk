@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @sambrzk
-- 👀 I’m interested in NFT and Crypto
-- 🌱 I’m currently learning Trading
-- 💞️ I’m looking to collaborate on Project NFT
+- 👀 I’m interested in Crypto
 - 📫 How to reach me ...
 
 <!---
